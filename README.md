@@ -1,0 +1,4 @@
+# Meteorological-Data
+Daily, monthly, seasonal and Annual meteorological data of UPASI Tea Research Institute
+
+A quality control of the daily datasets was performed following numerical and visual checks in order to identify errors in the data processing (Aguilar et al. 2005). The homogeneity of the meteorological records was evaluated using the RHtestV4, which identifies breakpoints and step changes in the data (Wang 2003), where the Penalized Maximal F test was appliedto have a linear trend (Wang, 2008a, 2008b). The data quality control criteria are; daily Tmin and Tmax temperature were set to missing values, if daily Tmax≤ Tmin. Outliers were detected in daily Tmax and Tmin temperature exceeding threestandard deviation (std) of the climatological mean (i.e. Mean±3×std) of the value for the day
