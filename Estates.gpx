@@ -1,0 +1,2424 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-06-21T11:31:03Z</time>
+    <bounds maxlat="13.5000470" maxlon="77.3801417" minlat="8.5769620" minlon="75.2883690"/>
+  </metadata>
+
+  <wpt lat="11.5996508" lon="76.0136099">
+    <ele>1036.0000000</ele>
+    <time>2016-06-18T01:48:08Z</time>
+    <name>Achoor</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3329673" lon="76.7963003">
+    <time>2016-06-18T05:53:52Z</time>
+    <name>Adderley</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3330000" lon="76.9980000">
+    <ele>1221.0000000</ele>
+    <time>2016-06-18T01:48:45Z</time>
+    <name>Akkamalai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6365000" lon="76.7680000">
+    <time>2016-06-21T01:07:18Z</time>
+    <name>Alampally</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2460000" lon="76.9450000">
+    <time>2016-06-17T09:11:15Z</time>
+    <name>Anaimudi</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5419000" lon="77.0659000">
+    <time>2016-06-21T01:08:29Z</time>
+    <name>Arnakal</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5307868" lon="76.1675869">
+    <time>2016-06-17T08:48:48Z</time>
+    <name>Arrapetta</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5012244" lon="76.3709081">
+    <time>2016-06-17T12:30:08Z</time>
+    <name>Attikunna</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.3760085" lon="75.3710920">
+    <time>2016-06-21T11:21:33Z</time>
+    <name>Balanoor</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3228254" lon="76.7741132">
+    <time>2016-06-18T05:54:43Z</time>
+    <name>Bengorm</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3051253" lon="76.7622683">
+    <time>2016-06-18T05:55:08Z</time>
+    <name>Bengorm A&amp;C</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3140903" lon="76.7303953">
+    <time>2016-06-18T05:55:54Z</time>
+    <name>Billimalai</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4391072" lon="76.8710604">
+    <time>2016-06-18T06:28:36Z</time>
+    <name>Burnside</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5900000" lon="76.9578000">
+    <time>2016-06-21T01:09:06Z</time>
+    <name>Caradygoody</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5063900" lon="76.3160000">
+    <time>2016-06-17T16:00:46Z</time>
+    <name>Carolyn</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2965100" lon="76.6821700">
+    <time>2016-06-18T05:57:49Z</time>
+    <name>Chamraj</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.5319473" lon="76.6940140">
+    <time>2016-06-17T10:37:50Z</time>
+    <name>Chandramalai</name>
+    <cmt>Nelliampathy</cmt>
+    <desc>Nelliampathy</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 4</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5468341" lon="76.0280194">
+    <time>2016-06-17T08:55:13Z</time>
+    <name>Chellotte</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5117754" lon="76.0799467">
+    <time>2016-06-17T08:45:30Z</time>
+    <name>Chembra</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.8513744" lon="75.9661313">
+    <time>2016-06-17T09:02:51Z</time>
+    <name>Cherakara</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5471173" lon="77.1161827">
+    <time>2016-06-21T01:09:16Z</time>
+    <name>Chidambaram</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5402191" lon="76.1270112">
+    <time>2016-06-17T08:48:42Z</time>
+    <name>Chulika</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5766009" lon="76.0716309">
+    <time>2016-06-17T08:48:34Z</time>
+    <name>Chundale</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0749174" lon="77.0660763">
+    <time>2016-06-17T11:16:23Z</time>
+    <name>Chundavurrai</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5690200" lon="77.0370797">
+    <time>2016-06-21T01:23:03Z</time>
+    <name>Churakulam</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.1922880" lon="75.3646780">
+    <time>2016-06-21T11:22:10Z</time>
+    <name>Classic</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3539093" lon="76.8101032">
+    <time>2016-06-18T05:58:28Z</time>
+    <name>Coonoor Tea</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5603089" lon="76.1003976">
+    <time>2016-06-17T08:55:00Z</time>
+    <name>Cottanad</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2940410" lon="76.7253614">
+    <time>2016-06-18T06:01:25Z</time>
+    <name>Craigmore</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4800704" lon="76.8912385">
+    <time>2016-06-18T06:28:30Z</time>
+    <name>Curzon</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5396274" lon="76.4397223">
+    <time>2016-06-17T12:31:59Z</time>
+    <name>Daverashola</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3689785" lon="76.6895538">
+    <time>2016-06-18T06:03:08Z</time>
+    <name>Devashola</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.3226880" lon="75.2883690">
+    <time>2016-06-21T11:22:35Z</time>
+    <name>Devon</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4675020" lon="76.6419956">
+    <time>2016-06-18T06:03:54Z</time>
+    <name>Dunsandle</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3178700" lon="76.7557230">
+    <time>2016-06-18T06:04:42Z</time>
+    <name>Erinkadu</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2980000" lon="76.9190000">
+    <time>2016-06-17T09:12:14Z</time>
+    <name>Gajamudi</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3676266" lon="76.8538874">
+    <time>2016-06-18T06:05:06Z</time>
+    <name>Glendale</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="12.0845142" lon="75.9398173">
+    <time>2016-06-21T11:23:26Z</time>
+    <name>Glenlorna</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5876000" lon="76.9832000">
+    <time>2016-06-21T01:10:21Z</time>
+    <name>Glenmary</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5017987" lon="76.6069686">
+    <time>2016-06-18T06:05:48Z</time>
+    <name>Glenmorgan</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5040852" lon="76.4821353">
+    <time>2016-06-17T12:40:33Z</time>
+    <name>Glenrock</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.1875592" lon="75.4073993">
+    <time>2016-06-21T11:24:06Z</time>
+    <name>Goomankhan</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5478000" lon="77.0341000">
+    <time>2016-06-21T01:10:44Z</time>
+    <name>Granby</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0726197" lon="77.1466204">
+    <time>2016-06-17T11:14:51Z</time>
+    <name>Guderale</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.1764803" lon="77.1039713">
+    <time>2016-06-17T11:15:37Z</time>
+    <name>Gundumallay</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6770000" lon="76.8685000">
+    <time>2016-06-21T01:11:09Z</time>
+    <name>Haileyburia</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4178922" lon="76.8973359">
+    <time>2016-06-18T06:07:20Z</time>
+    <name>Havukal</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3372427" lon="76.7446518">
+    <time>2016-06-18T06:08:02Z</time>
+    <name>Highfield</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6302610" lon="77.3242770">
+    <time>2016-06-17T12:44:37Z</time>
+    <name>Highwavys</name>
+    <cmt>Highwavys</cmt>
+    <desc>Highwavys</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 7</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5471173" lon="77.1161827">
+    <time>2016-06-21T01:11:27Z</time>
+    <name>Injikad</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3140000" lon="76.9200000">
+    <time>2016-06-17T09:13:56Z</time>
+    <name>Injipara</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3645156" lon="76.9885252">
+    <time>2016-06-17T09:15:10Z</time>
+    <name>Iyerpadi</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.8339681" lon="76.0041875">
+    <time>2016-06-17T08:51:12Z</time>
+    <name>Jessie</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="12.9176920" lon="75.6607388">
+    <time>2016-06-21T11:24:32Z</time>
+    <name>Kadamane</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4183711" lon="76.8407258">
+    <time>2016-06-18T06:26:24Z</time>
+    <name>Kairbetta</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2630000" lon="76.9760000">
+    <time>2016-06-17T09:14:56Z</time>
+    <name>Kallayar</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.8675572" lon="75.9493153">
+    <time>2016-06-17T08:52:25Z</time>
+    <name>Kambamala</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3180000" lon="77.0110000">
+    <time>2016-06-17T09:15:53Z</time>
+    <name>Karamalai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6683000" lon="77.0121000">
+    <time>2016-06-21T01:11:54Z</time>
+    <name>Karimtharuvi</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3415319" lon="76.7264235">
+    <time>2016-06-18T06:08:58Z</time>
+    <name>Katery</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.3844854" lon="75.3045052">
+    <time>2016-06-21T11:25:08Z</time>
+    <name>Kelagur</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4507853" lon="76.9325819">
+    <time>2016-06-18T06:27:11Z</time>
+    <name>Kil-Kotagiri</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4982860" lon="76.8699715">
+    <time>2016-06-18T06:10:18Z</time>
+    <name>Kodanaad</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6429000" lon="76.9353000">
+    <time>2016-06-21T01:12:18Z</time>
+    <name>Kolakalamedu</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.4875766" lon="75.3761222">
+    <time>2016-06-21T11:28:28Z</time>
+    <name>Koppa</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2228573" lon="76.4400065">
+    <time>2016-06-18T06:10:49Z</time>
+    <name>Korakundah</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4425208" lon="76.9171193">
+    <time>2016-06-18T06:27:38Z</time>
+    <name>Kotada</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5471173" lon="77.1161827">
+    <time>2016-06-21T01:12:27Z</time>
+    <name>Kuduakarnam</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5769277" lon="76.0241811">
+    <time>2016-06-17T08:54:09Z</time>
+    <name>Kurchermala</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5783000" lon="76.9997000">
+    <time>2016-06-21T01:12:56Z</time>
+    <name>Ladrum</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0880328" lon="77.0783587">
+    <time>2016-06-17T11:16:27Z</time>
+    <name>Letchimi</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0472016" lon="77.1085867">
+    <time>2016-06-17T11:17:06Z</time>
+    <name>Lockhart</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0965695" lon="77.0733510">
+    <time>2016-06-17T11:19:14Z</time>
+    <name>Madupatty</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2676922" lon="76.7299736">
+    <time>2016-06-18T06:16:33Z</time>
+    <name>Mailoor</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2820000" lon="76.8530000">
+    <time>2016-06-17T09:16:39Z</time>
+    <name>Malakkiparai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.5202976" lon="76.6712666">
+    <time>2016-06-17T10:38:35Z</time>
+    <name>Manalaroo</name>
+    <cmt>Nelliampathy</cmt>
+    <desc>Nelliampathy</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 4</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="8.5946473" lon="77.3778733">
+    <time>2016-06-17T10:27:36Z</time>
+    <name>Manimuthar</name>
+    <cmt>Sigampatti</cmt>
+    <desc>Sigampatti</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 3</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="8.6103861" lon="77.3801417">
+    <time>2016-06-17T10:27:14Z</time>
+    <name>Manjolai</name>
+    <cmt>Sigampatti</cmt>
+    <desc>Sigampatti</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 3</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2600564" lon="76.7859022">
+    <time>2016-06-18T06:15:22Z</time>
+    <name>Mannar</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.2248950" lon="75.7769860">
+    <time>2016-06-21T11:26:36Z</time>
+    <name>Mavinkere</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5570000" lon="76.4410000">
+    <time>2016-06-17T15:57:53Z</time>
+    <name>Mayfield</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.2914154" lon="75.3813986">
+    <time>2016-06-21T11:27:00Z</time>
+    <name>Merthikhan</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6304000" lon="77.0579000">
+    <time>2016-06-21T01:13:21Z</time>
+    <name>Moongalaar</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2680000" lon="76.9180000">
+    <time>2016-06-17T09:18:33Z</time>
+    <name>Mukkottumudi</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5658760" lon="77.0923504">
+    <time>2016-06-21T01:23:08Z</time>
+    <name>Munjamullay</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3070000" lon="76.8410000">
+    <time>2016-06-17T10:00:44Z</time>
+    <name>Murugalli</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3150000" lon="76.9690000">
+    <time>2016-06-17T10:01:12Z</time>
+    <name>Nadumalai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.7020766" lon="76.8069300">
+    <time>2016-06-21T01:14:56Z</time>
+    <name>Nellikai</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3145487" lon="76.8125734">
+    <time>2016-06-18T06:15:50Z</time>
+    <name>Nonsuch</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3197552" lon="76.9532934">
+    <time>2016-06-21T01:34:10Z</time>
+    <name>Nullacathu</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0977453" lon="77.0488463">
+    <time>2016-06-17T11:18:02Z</time>
+    <name>Nullatanni</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.1162483" lon="77.1603643">
+    <time>2016-06-17T11:18:25Z</time>
+    <name>Nyayamakad</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="8.5769620" lon="77.3394850">
+    <time>2016-06-17T10:28:00Z</time>
+    <name>Ootu</name>
+    <cmt>Sigampatti</cmt>
+    <desc>Sigampatti</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 3</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6343000" lon="76.7470000">
+    <time>2016-06-21T01:16:30Z</time>
+    <name>P.Connemera</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3310000" lon="76.9690000">
+    <time>2016-06-17T10:01:45Z</time>
+    <name>Pachamalai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2770166" lon="76.7091482">
+    <time>2016-06-18T06:16:17Z</time>
+    <name>Palaniappa</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5788000" lon="77.0102000">
+    <time>2016-06-21T01:17:06Z</time>
+    <name>Pambanar</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0583012" lon="77.0569014">
+    <time>2016-06-17T11:19:08Z</time>
+    <name>Panniar</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2860000" lon="76.8830000">
+    <time>2016-06-17T10:02:14Z</time>
+    <name>Pannimade</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3420000" lon="76.9760000">
+    <time>2016-06-17T10:02:39Z</time>
+    <name>Paralai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3163033" lon="76.8012353">
+    <time>2016-06-18T06:16:58Z</time>
+    <name>Parkside</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5879000" lon="76.9742000">
+    <time>2016-06-21T01:17:29Z</time>
+    <name>Pasumullay</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6954000" lon="76.9554000">
+    <time>2016-06-21T01:17:54Z</time>
+    <name>Pasuparai</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5847406" lon="77.0286356">
+    <time>2016-06-21T01:22:58Z</time>
+    <name>Pattumalay</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6419632" lon="76.8382588">
+    <time>2016-06-21T01:22:44Z</time>
+    <name>Penshurst (Fairfirld)</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0344219" lon="77.1671170">
+    <time>2016-06-17T11:19:43Z</time>
+    <name>Periakanal</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.5559033" lon="76.7200733">
+    <time>2016-06-17T10:39:03Z</time>
+    <name>POBAS</name>
+    <cmt>Nelliampathy</cmt>
+    <desc>Nelliampathy</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 4</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.8015825" lon="76.0001562">
+    <time>2016-06-17T08:58:08Z</time>
+    <name>Priyadarshini</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.7618000" lon="76.8418000">
+    <time>2016-06-21T01:19:24Z</time>
+    <name>Pullikanam</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0429720" lon="77.0514998">
+    <time>2016-06-17T11:20:15Z</time>
+    <name>Pullivasal</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3380808" lon="76.9634921">
+    <time>2016-06-21T01:34:28Z</time>
+    <name>Puthtotam</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.5000470" lon="75.4091311">
+    <time>2016-06-21T11:27:48Z</time>
+    <name>Quard-Hitlow</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5002998" lon="76.1727759">
+    <time>2016-06-17T09:00:25Z</time>
+    <name>Ripon</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5350000" lon="76.4090000">
+    <time>2016-06-17T15:58:56Z</time>
+    <name>Rockwood</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.5245210" lon="76.8592129">
+    <time>2016-06-21T01:20:53Z</time>
+    <name>Rohit</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4690000" lon="76.3740000">
+    <time>2016-06-17T16:01:58Z</time>
+    <name>Rosudanmullai</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6419000" lon="76.9689000">
+    <time>2016-06-21T01:21:20Z</time>
+    <name>Semnivalley</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4170000" lon="76.4630000">
+    <time>2016-06-17T16:02:34Z</time>
+    <name>Sentinal Rock</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3260000" lon="76.8390000">
+    <time>2016-06-17T10:03:05Z</time>
+    <name>Sheikalmudi</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2930000" lon="76.9480000">
+    <time>2016-06-17T10:03:27Z</time>
+    <name>Sholayar</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="13.4557102" lon="75.3928103">
+    <time>2016-06-21T11:28:20Z</time>
+    <name>Siddarban</name>
+    <cmt>Karnataka</cmt>
+    <desc>Karnataka</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 10</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4918918" lon="76.4426063">
+    <time>2016-06-17T12:33:31Z</time>
+    <name>Silvercloud</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3459428" lon="76.8196778">
+    <time>2016-06-18T06:17:26Z</time>
+    <name>Singara</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.4957563" lon="76.6718393">
+    <time>2016-06-17T10:39:32Z</time>
+    <name>Siruvani</name>
+    <cmt>Nelliampathy</cmt>
+    <desc>Nelliampathy</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 4</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2920000" lon="76.9730000">
+    <time>2016-06-17T10:03:51Z</time>
+    <name>Srikundra</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3330000" lon="76.9460000">
+    <time>2016-06-17T10:04:14Z</time>
+    <name>Stanmore</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.0596257" lon="77.1722597">
+    <time>2016-06-17T11:20:39Z</time>
+    <name>Surianalle</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5680000" lon="76.4130000">
+    <time>2016-06-17T15:57:19Z</time>
+    <name>Sussex</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2964550" lon="76.7278830">
+    <time>2016-06-18T06:17:54Z</time>
+    <name>Sutton</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5412782" lon="76.0033833">
+    <time>2016-06-17T09:01:20Z</time>
+    <name>Talamala</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.8377200" lon="75.9466111">
+    <time>2016-06-17T09:02:48Z</time>
+    <name>Talapoya</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.1650213" lon="77.0993823">
+    <time>2016-06-17T11:21:03Z</time>
+    <name>Talliar</name>
+    <cmt>Munnar</cmt>
+    <desc>Munnar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 5</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.8330230" lon="75.9650689">
+    <time>2016-06-17T09:04:40Z</time>
+    <name>Tatamala</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2730000" lon="76.9390000">
+    <time>2016-06-17T10:04:39Z</time>
+    <name>Thaymudi</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6295000" lon="77.0346000">
+    <time>2016-06-21T01:21:41Z</time>
+    <name>Thengakal</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2255741" lon="76.6042971">
+    <time>2016-06-18T06:18:28Z</time>
+    <name>Thiashola</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.6565151" lon="76.3015405">
+    <time>2016-06-17T09:05:42Z</time>
+    <name>Touramulla</name>
+    <cmt>Meppadi</cmt>
+    <desc>Meppadi</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3000229" lon="76.6175753">
+    <time>2016-06-18T06:19:21Z</time>
+    <name>Tuttapullum</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6226000" lon="76.9544000">
+    <time>2016-06-21T01:22:07Z</time>
+    <name>Tyford</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3320000" lon="76.8810000">
+    <time>2016-06-17T10:05:27Z</time>
+    <name>Uralikal</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3070000" lon="76.9950000">
+    <time>2016-06-17T10:05:52Z</time>
+    <name>Vellamalai</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3670000" lon="76.9550000">
+    <time>2016-06-17T10:06:21Z</time>
+    <name>Velonie</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6370729" lon="77.3206721">
+    <time>2016-06-17T12:45:03Z</time>
+    <name>Venniar</name>
+    <cmt>Highwavys</cmt>
+    <desc>Highwavys</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 7</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="9.6122000" lon="76.9572000">
+    <time>2016-06-21T01:22:32Z</time>
+    <name>Wallardie</name>
+    <cmt>Vandiperiyar</cmt>
+    <desc>Vandiperiyar</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 9</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.4678533" lon="76.8710604">
+    <time>2016-06-18T06:28:27Z</time>
+    <name>Warwick</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.4134530" lon="76.9981560">
+    <time>2016-06-17T10:07:06Z</time>
+    <name>Waterfall East</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3921150" lon="77.0063210">
+    <time>2016-06-17T10:07:27Z</time>
+    <name>Waterfall West</name>
+    <cmt>The Anamalais</cmt>
+    <desc>The Anamalais</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 2</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.3647340" lon="76.6834974">
+    <time>2016-06-18T06:21:44Z</time>
+    <name>Welbeck</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5029016" lon="76.2778046">
+    <time>2016-06-17T12:34:25Z</time>
+    <name>Wentworth</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.5570000" lon="76.4410000">
+    <time>2016-06-17T15:58:10Z</time>
+    <name>Woodbriar</name>
+    <cmt>Gudalur</cmt>
+    <desc>Gudalur</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="11.2769136" lon="76.7354130">
+    <time>2016-06-18T06:22:22Z</time>
+    <name>Woodlands</name>
+    <cmt>Coonoor</cmt>
+    <desc>Coonoor</desc>
+    <sym>Circle, Red</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 6</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

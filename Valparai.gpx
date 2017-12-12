@@ -1,0 +1,2038 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="MapSource 6.15.11" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2016-03-17T11:24:11Z</time>
+    <bounds maxlat="10.3722833" maxlon="76.9990000" minlat="10.2582167" minlon="76.8359500"/>
+  </metadata>
+
+  <wpt lat="10.3480667" lon="76.9944167">
+    <time>2016-03-17T06:09:23Z</time>
+    <name>1</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3347667" lon="76.9657333">
+    <time>2016-03-17T10:56:43Z</time>
+    <name>1_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2692167" lon="76.9290667">
+    <time>2016-03-17T08:43:23Z</time>
+    <name>1_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3613666" lon="76.9908500">
+    <time>2016-03-17T06:21:52Z</time>
+    <name>10</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3021000" lon="76.8662667">
+    <time>2016-03-17T09:50:24Z</time>
+    <name>10_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3131000" lon="76.9664167">
+    <time>2016-03-17T11:00:11Z</time>
+    <name>10_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3052500" lon="76.8404667">
+    <time>2016-03-17T10:13:20Z</time>
+    <name>10_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2699000" lon="76.9171667">
+    <time>2016-03-17T08:50:28Z</time>
+    <name>10A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2730000" lon="76.9145833">
+    <time>2016-03-17T08:50:57Z</time>
+    <name>10B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3594666" lon="76.9888000">
+    <time>2016-03-17T06:22:31Z</time>
+    <name>11</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2971333" lon="76.8601500">
+    <time>2016-03-17T09:50:54Z</time>
+    <name>11_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3176667" lon="76.9654000">
+    <time>2016-03-17T11:00:32Z</time>
+    <name>11_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3003333" lon="76.8436167">
+    <time>2016-03-17T10:03:44Z</time>
+    <name>11_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2976000" lon="76.8626500">
+    <time>2016-03-17T09:52:58Z</time>
+    <name>11A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2659667" lon="76.9293334">
+    <time>2016-03-17T08:51:23Z</time>
+    <name>11A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2632000" lon="76.9430167">
+    <time>2016-03-17T08:52:05Z</time>
+    <name>11B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3538333" lon="76.9885000">
+    <time>2016-03-17T06:25:38Z</time>
+    <name>12</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3076167" lon="76.8652000">
+    <time>2016-03-17T09:51:19Z</time>
+    <name>12_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3219167" lon="76.9708667">
+    <time>2016-03-17T11:00:56Z</time>
+    <name>12_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2682333" lon="76.9090667">
+    <time>2016-03-17T08:46:26Z</time>
+    <name>12_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3047500" lon="76.8536500">
+    <time>2016-03-17T09:53:21Z</time>
+    <name>12A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2969167" lon="76.8454000">
+    <time>2016-03-17T10:06:26Z</time>
+    <name>12A_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3004000" lon="76.8471500">
+    <time>2016-03-17T10:05:39Z</time>
+    <name>12B_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3569334" lon="76.9881333">
+    <time>2016-03-17T06:26:49Z</time>
+    <name>13</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3068333" lon="76.8655167">
+    <time>2016-03-17T09:51:40Z</time>
+    <name>13_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3165333" lon="76.9730500">
+    <time>2016-03-17T11:01:18Z</time>
+    <name>13_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3011000" lon="76.8521334">
+    <time>2016-03-17T10:04:11Z</time>
+    <name>13_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2655834" lon="76.9125334">
+    <time>2016-03-17T08:46:58Z</time>
+    <name>13_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3009500" lon="76.8495167">
+    <time>2016-03-17T10:06:53Z</time>
+    <name>13A_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3013167" lon="76.8523500">
+    <time>2016-03-17T10:07:40Z</time>
+    <name>13B_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3573167" lon="76.9877167">
+    <time>2016-03-17T06:27:30Z</time>
+    <name>14</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3044500" lon="76.8533500">
+    <time>2016-03-17T09:52:00Z</time>
+    <name>14_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3140167" lon="76.9748500">
+    <time>2016-03-17T11:01:37Z</time>
+    <name>14_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2663833" lon="76.9307667">
+    <time>2016-03-17T08:47:33Z</time>
+    <name>14_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3044000" lon="76.8535333">
+    <time>2016-03-17T09:54:16Z</time>
+    <name>14A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2985167" lon="76.8541833">
+    <time>2016-03-17T10:08:04Z</time>
+    <name>14A_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2944334" lon="76.8530333">
+    <time>2016-03-17T10:08:58Z</time>
+    <name>14B_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2942833" lon="76.8527834">
+    <time>2016-03-17T10:08:31Z</time>
+    <name>14NC_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3581333" lon="76.9842500">
+    <time>2016-03-17T06:28:13Z</time>
+    <name>15</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3088500" lon="76.8756000">
+    <time>2016-03-17T09:43:18Z</time>
+    <name>15_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3132000" lon="76.9705167">
+    <time>2016-03-17T11:01:57Z</time>
+    <name>15_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2976000" lon="76.8511834">
+    <time>2016-03-17T10:04:46Z</time>
+    <name>15_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3073666" lon="76.8750667">
+    <time>2016-03-17T09:45:44Z</time>
+    <name>15A_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3029334" lon="76.8751167">
+    <time>2016-03-17T09:46:12Z</time>
+    <name>15B_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3527500" lon="76.9874833">
+    <time>2016-03-17T06:30:13Z</time>
+    <name>16</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3101333" lon="76.8734666">
+    <time>2016-03-17T09:43:48Z</time>
+    <name>16_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3138500" lon="76.9703500">
+    <time>2016-03-17T11:02:31Z</time>
+    <name>16_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3121167" lon="76.8751500">
+    <time>2016-03-17T09:46:38Z</time>
+    <name>16A_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2964666" lon="76.8457000">
+    <time>2016-03-17T10:09:38Z</time>
+    <name>16A_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2969500" lon="76.8503333">
+    <time>2016-03-17T10:09:57Z</time>
+    <name>16B_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3508500" lon="76.9847833">
+    <time>2016-03-17T06:31:24Z</time>
+    <name>17</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3129333" lon="76.8724166">
+    <time>2016-03-17T09:44:21Z</time>
+    <name>17_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3089667" lon="76.9752333">
+    <time>2016-03-17T11:03:06Z</time>
+    <name>17_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3549500" lon="76.9834334">
+    <time>2016-03-17T06:32:33Z</time>
+    <name>18</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3153667" lon="76.8735000">
+    <time>2016-03-17T09:45:06Z</time>
+    <name>18_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3069500" lon="76.9760667">
+    <time>2016-03-17T11:03:33Z</time>
+    <name>18_2N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3152333" lon="76.8752333">
+    <time>2016-03-17T09:47:09Z</time>
+    <name>18A_1M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2908667" lon="76.8456666">
+    <time>2016-03-17T10:10:57Z</time>
+    <name>18A_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2914166" lon="76.8456000">
+    <time>2016-03-17T10:11:19Z</time>
+    <name>18B_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3580333" lon="76.9842333">
+    <time>2016-03-17T06:33:09Z</time>
+    <name>19</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2930000" lon="76.8481500">
+    <time>2016-03-17T10:05:05Z</time>
+    <name>19_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3479167" lon="76.9944500">
+    <time>2016-03-17T06:11:18Z</time>
+    <name>1A</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3498167" lon="76.9941000">
+    <time>2016-03-17T06:12:14Z</time>
+    <name>2</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3119334" lon="76.8387333">
+    <time>2016-03-17T10:13:51Z</time>
+    <name>2(62)_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3105834" lon="76.8359500">
+    <time>2016-03-17T10:14:26Z</time>
+    <name>2(66)_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3317333" lon="76.9615167">
+    <time>2016-03-17T10:57:06Z</time>
+    <name>2_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2729833" lon="76.9282000">
+    <time>2016-03-17T08:44:39Z</time>
+    <name>2_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3612833" lon="76.9864834">
+    <time>2016-03-17T06:34:27Z</time>
+    <name>20</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3646333" lon="76.9867333">
+    <time>2016-03-17T06:35:04Z</time>
+    <name>21</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2602833" lon="76.9287333">
+    <time>2016-03-17T08:48:15Z</time>
+    <name>21_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3615500" lon="76.9839833">
+    <time>2016-03-17T06:35:42Z</time>
+    <name>22</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2631667" lon="76.9257667">
+    <time>2016-03-17T08:53:52Z</time>
+    <name>22A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2589667" lon="76.9276167">
+    <time>2016-03-17T08:55:31Z</time>
+    <name>22B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3604000" lon="76.9801000">
+    <time>2016-03-17T06:36:14Z</time>
+    <name>23</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2600167" lon="76.9209500">
+    <time>2016-03-17T08:48:48Z</time>
+    <name>23_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3645000" lon="76.9831833">
+    <time>2016-03-17T06:36:51Z</time>
+    <name>24</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2582167" lon="76.9175834">
+    <time>2016-03-17T08:49:20Z</time>
+    <name>24_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3676334" lon="76.9838167">
+    <time>2016-03-17T06:37:18Z</time>
+    <name>25</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3657334" lon="76.9775667">
+    <time>2016-03-17T06:37:53Z</time>
+    <name>26</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3667000" lon="76.9761667">
+    <time>2016-03-17T06:38:26Z</time>
+    <name>27</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3641333" lon="76.9745167">
+    <time>2016-03-17T06:39:18Z</time>
+    <name>28</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3656500" lon="76.9701000">
+    <time>2016-03-17T06:40:06Z</time>
+    <name>28A</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3680833" lon="76.9735333">
+    <time>2016-03-17T06:41:10Z</time>
+    <name>29</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3500500" lon="76.9969000">
+    <time>2016-03-17T06:13:00Z</time>
+    <name>3</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3271833" lon="76.9657000">
+    <time>2016-03-17T10:57:32Z</time>
+    <name>3_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3677833" lon="76.9782166">
+    <time>2016-03-17T06:41:55Z</time>
+    <name>30</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3709166" lon="76.9795667">
+    <time>2016-03-17T06:43:28Z</time>
+    <name>31</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3722833" lon="76.9807000">
+    <time>2016-03-17T06:43:58Z</time>
+    <name>32</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3699334" lon="76.9817000">
+    <time>2016-03-17T06:44:29Z</time>
+    <name>33</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3106667" lon="76.8384833">
+    <time>2016-03-17T10:15:56Z</time>
+    <name>3A_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2659000" lon="76.9249666">
+    <time>2016-03-17T08:56:21Z</time>
+    <name>3A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3078500" lon="76.8389000">
+    <time>2016-03-17T10:16:34Z</time>
+    <name>3A1_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3114167" lon="76.8405667">
+    <time>2016-03-17T10:15:16Z</time>
+    <name>3B_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2667167" lon="76.9258833">
+    <time>2016-03-17T08:56:54Z</time>
+    <name>3B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3552667" lon="76.9990000">
+    <time>2016-03-17T06:13:46Z</time>
+    <name>4</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3265334" lon="76.9612500">
+    <time>2016-03-17T10:57:59Z</time>
+    <name>4_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3088333" lon="76.8579333">
+    <time>2016-03-17T09:54:43Z</time>
+    <name>4A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3069333" lon="76.8432833">
+    <time>2016-03-17T10:18:47Z</time>
+    <name>4A_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2659500" lon="76.9222667">
+    <time>2016-03-17T08:58:03Z</time>
+    <name>4A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3095666" lon="76.8440167">
+    <time>2016-03-17T10:17:28Z</time>
+    <name>4B_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2675000" lon="76.9226833">
+    <time>2016-03-17T08:58:32Z</time>
+    <name>4B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3105667" lon="76.8433334">
+    <time>2016-03-17T10:17:53Z</time>
+    <name>4C_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3091667" lon="76.8413833">
+    <time>2016-03-17T10:18:21Z</time>
+    <name>4D_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3610000" lon="76.9944333">
+    <time>2016-03-17T06:15:11Z</time>
+    <name>5</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3262833" lon="76.9650834">
+    <time>2016-03-17T10:58:19Z</time>
+    <name>5_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3086667" lon="76.8614167">
+    <time>2016-03-17T09:48:37Z</time>
+    <name>5_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3070667" lon="76.8481667">
+    <time>2016-03-17T10:20:03Z</time>
+    <name>5A</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3081500" lon="76.8651334">
+    <time>2016-03-17T09:55:12Z</time>
+    <name>5A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2774334" lon="76.9244333">
+    <time>2016-03-17T08:59:20Z</time>
+    <name>5A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3094666" lon="76.8489166">
+    <time>2016-03-17T10:19:41Z</time>
+    <name>5B_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2742500" lon="76.9234167">
+    <time>2016-03-17T08:59:47Z</time>
+    <name>5B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3674167" lon="76.9927667">
+    <time>2016-03-17T06:16:33Z</time>
+    <name>6</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3259000" lon="76.9609500">
+    <time>2016-03-17T10:58:46Z</time>
+    <name>6_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3081833" lon="76.8624167">
+    <time>2016-03-17T09:48:59Z</time>
+    <name>6_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2723500" lon="76.9212833">
+    <time>2016-03-17T08:45:39Z</time>
+    <name>6_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3095334" lon="76.8523666">
+    <time>2016-03-17T10:21:01Z</time>
+    <name>6A_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3073167" lon="76.8522666">
+    <time>2016-03-17T10:20:39Z</time>
+    <name>6B_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3635500" lon="76.9956667">
+    <time>2016-03-17T06:17:48Z</time>
+    <name>7</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3053000" lon="76.8518666">
+    <time>2016-03-17T10:23:59Z</time>
+    <name>7A_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2643833" lon="76.9205167">
+    <time>2016-03-17T09:00:17Z</time>
+    <name>7A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3045000" lon="76.8555833">
+    <time>2016-03-17T10:21:26Z</time>
+    <name>7B_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2639833" lon="76.9208167">
+    <time>2016-03-17T09:00:48Z</time>
+    <name>7B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3061333" lon="76.8569500">
+    <time>2016-03-17T10:23:34Z</time>
+    <name>7C_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3604166" lon="76.9932500">
+    <time>2016-03-17T06:18:51Z</time>
+    <name>8</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3233000" lon="76.9623333">
+    <time>2016-03-17T10:59:16Z</time>
+    <name>8_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3071500" lon="76.8652167">
+    <time>2016-03-17T09:49:25Z</time>
+    <name>8_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3048667" lon="76.8478833">
+    <time>2016-03-17T10:12:40Z</time>
+    <name>8_4M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3029666" lon="76.8616667">
+    <time>2016-03-17T09:55:40Z</time>
+    <name>8A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2628333" lon="76.9179500">
+    <time>2016-03-17T09:01:17Z</time>
+    <name>8A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2643500" lon="76.9170333">
+    <time>2016-03-17T09:01:54Z</time>
+    <name>8B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3606500" lon="76.9920334">
+    <time>2016-03-17T06:19:55Z</time>
+    <name>9</name>
+    <cmt>Iyarpadi</cmt>
+    <desc>Iyarpadi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3196333" lon="76.9621833">
+    <time>2016-03-17T10:59:46Z</time>
+    <name>9_1N</name>
+    <cmt>Nadumalai</cmt>
+    <desc>Nadumalai</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3001500" lon="76.8612833">
+    <time>2016-03-17T09:50:00Z</time>
+    <name>9_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3006500" lon="76.8466333">
+    <time>2016-03-17T10:03:22Z</time>
+    <name>9_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3024166" lon="76.8662834">
+    <time>2016-03-17T09:56:07Z</time>
+    <name>9A_2M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Category 1</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3007500" lon="76.8463167">
+    <time>2016-03-17T10:12:08Z</time>
+    <name>9A_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2707167" lon="76.9166833">
+    <time>2016-03-17T09:02:24Z</time>
+    <name>9A_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.3017333" lon="76.8466000">
+    <time>2016-03-17T10:11:46Z</time>
+    <name>9B_3M</name>
+    <cmt>Murugali</cmt>
+    <desc>Murugali</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="10.2723166" lon="76.9168500">
+    <time>2016-03-17T09:02:49Z</time>
+    <name>9B_M</name>
+    <cmt>Mukkottumudi</cmt>
+    <desc>Mukkottumudi</desc>
+    <sym>Custom 0</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolOnly</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
